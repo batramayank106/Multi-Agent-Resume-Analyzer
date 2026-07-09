@@ -64,7 +64,7 @@ The app uses JWT-based authentication with bcrypt password hashing. Users regist
 |---|---|
 | ![Dashboard](https://raw.githubusercontent.com/batramayank106/Multi-Agent-Resume-Analyzer/main/screenshots/Dashboard%20Page.png) | ![Sidebar](https://raw.githubusercontent.com/batramayank106/Multi-Agent-Resume-Analyzer/main/screenshots/Sidebar.png) |
 
-The dashboard shows model capabilities, agent pipeline status, and quick action buttons. The sidebar provides navigation to all 16 pages.
+The dashboard shows model capabilities, agent pipeline status, and quick action buttons. The sidebar provides navigation to all 21 pages.
 
 ---
 
@@ -246,7 +246,7 @@ The admin panel provides user management (create, disable, delete), audit log vi
 | Layer | Technology |
 |-------|-----------|
 | Backend | FastAPI + Uvicorn |
-| Frontend | Streamlit (16 pages, custom warm-canvas theme) |
+| Frontend | Streamlit (21 pages, custom warm-canvas theme) |
 | Agent Framework | LangGraph (StateGraph) |
 | Vector Store | ChromaDB + BGE embeddings + cross-encoder reranking |
 | Authentication | JWT (python-jose) + bcrypt |

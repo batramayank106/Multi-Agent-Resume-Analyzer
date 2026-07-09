@@ -85,7 +85,7 @@ Most AI portfolio projects are single-model chatbots or simple RAG demos. **CV C
 | **Agent Orchestration** | 12 agents wired in a LangGraph state machine with typed state passing, error isolation, and sequential execution |
 | **LLM Engineering** | 5-model manager with exponential backoff retry, automatic failover, token tracking, and cost monitoring |
 | **RAG Architecture** | ChromaDB vector store + BGE embeddings + cross-encoder reranking + context assembly pipeline |
-| **Full-Stack AI** | FastAPI backend → Streamlit frontend with 16 pages, real-time analysis, and interactive visualizations |
+| **Full-Stack AI** | FastAPI backend → Streamlit frontend with 21 pages, real-time analysis, and interactive visualizations |
 | **Production Patterns** | Retry logic, graceful degradation, typed schemas, logging, environment configuration, seed data |
 | **UI/UX Design** | Custom warm-canvas editorial theme (Anthropic-inspired), animated loading states, responsive layout |
 | **Explainable AI** | Every score has an evidence trail — no black boxes, no unexplained deductions |
@@ -198,7 +198,7 @@ Estimates hiring likelihood across stages: ATS Pass → Recruiter Shortlist → 
 
 ┌──────────────────────────────────────────────────────────────────┐
 │                        Streamlit Frontend                        │
-│  16 pages · Warm-canvas editorial theme · st.navigation routing  │
+│  21 pages · Warm-canvas editorial theme · st.navigation routing  │
 │  Loading animations · Animated ticker · Plotly visualizations     │
 └────────────────┬─────────────────┬──────────────────────────────┘
   HTTP POST       │ HTTP POST        │ GET
@@ -315,7 +315,7 @@ The system is documented with 5 architecture diagrams. Source PNG files are in [
 - Environment-based configuration for sensitive keys
 
 ### UX
-- 16-page Streamlit application with consistent design language
+- 21-page Streamlit application with consistent design language
 - Custom editorial theme with CSS variables, typography system, and responsive layout
 - Loading animations (entrance bounce, ATS gauge sweep, pipeline flow)
 - Interactive Plotly visualizations (gauge charts, radar charts, bar charts)
