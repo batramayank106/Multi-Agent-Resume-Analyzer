@@ -8,11 +8,23 @@ CV Chacha is a multi-agent resume intelligence platform that uses 12 specialized
 
 ## Architecture
 
+### System Architecture
+
 ![System Architecture](https://raw.githubusercontent.com/batramayank106/Multi-Agent-Resume-Analyzer/main/diagrams/System%20Architecture%20-%20White%20Background.png)
+
+*High-level overview of the backend, frontend, agent pipeline, and database layers.*
+
+### LangGraph Workflow
 
 ![LangGraph Workflow](https://raw.githubusercontent.com/batramayank106/Multi-Agent-Resume-Analyzer/main/diagrams/Langgraph%20workflow%20-%20white%20background.png)
 
+*Sequential 12-agent pipeline with typed state passing and error isolation.*
+
+### Agent Communication
+
 ![Agent Communication](https://raw.githubusercontent.com/batramayank106/Multi-Agent-Resume-Analyzer/main/diagrams/Agent%20Communication.png)
+
+*How agents read from and write to the shared AgentState during execution.*
 
 ```
 Resume + JD

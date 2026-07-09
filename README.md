@@ -16,7 +16,7 @@
 <br>
 
 <p align="center">
-  <span style="font-size: 4rem; line-height: 1;">😎</span>
+  <img src="https://raw.githubusercontent.com/batramayank106/Multi-Agent-Resume-Analyzer/main/media%20and%20images/Main%20icon%20transparent.png" width="120" alt="CV Chacha">
 </p>
 <p align="center">
   <strong style="font-size: 2.8rem; font-family: serif; letter-spacing: -1px;">CV Chacha — by Mayank Batra</strong>
