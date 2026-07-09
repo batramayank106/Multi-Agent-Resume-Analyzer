@@ -207,7 +207,7 @@ Files uploaded to the resume library are encrypted at rest using Fernet symmetri
 | | |
 |---|---|
 | ![Resume Version](https://raw.githubusercontent.com/batramayank106/Multi-Agent-Resume-Analyzer/main/screenshots/Resume%20Version.png) | ![Resume Version 1](https://raw.githubusercontent.com/batramayank106/Multi-Agent-Resume-Analyzer/main/screenshots/resume%20version-1.png) |
-| ![Resume Version 2](https://raw.githubusercontent.com/batramayank106/Multi-Agent-Resume-Analyzer/main/screenshots/resume%20version-2.png) | ![Version Comparison](https://raw.githubusercontent.com/batramayank106/Multi-Agent-Resume-Analyzer/main/screenshots/Resumer%20Version%20Comparison.png) |
+| ![Resume Version 2](https://raw.githubusercontent.com/batramayank106/Multi-Agent-Resume-Analyzer/main/screenshots/resume%20version%20-2.png) | ![Version Comparison](https://raw.githubusercontent.com/batramayank106/Multi-Agent-Resume-Analyzer/main/screenshots/Resumer%20Version%20Comparison.png) |
 | ![Manual Compare](https://raw.githubusercontent.com/batramayank106/Multi-Agent-Resume-Analyzer/main/screenshots/Resum%20Version-Manual%20Compare.png) | |
 
 ---
