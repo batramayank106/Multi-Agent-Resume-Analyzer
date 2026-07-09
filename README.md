@@ -21,6 +21,11 @@
 <p align="center">
   <strong style="font-size: 2.8rem; font-family: serif; letter-spacing: -1px;">CV Chacha — by Mayank Batra</strong>
 </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mayank-batra-821b10365/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+  </a>
+</p>
 <p align="center" style="font-size: 1.2rem; color: #6c6a4a;">
   Multi-Agent Resume Intelligence Platform
 </p>
