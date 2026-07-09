@@ -1,0 +1,45 @@
+Resume Optimization Resources and Techniques
+
+1. Keyword Extraction:
+   - Identify key skills and technologies from job descriptions.
+   - Note both required and preferred qualifications.
+   - Look for repeated terms and themes.
+   - Identify industry buzzwords and trending technologies.
+
+2. Bullet Point Optimization:
+   - Start with powerful action verbs.
+   - Include specific metrics and results.
+   - Use the format: "Action verb + Task + Result + Metric"
+   - Keep bullets to 1-2 lines maximum.
+   - Remove weak or generic descriptions.
+
+3. ATS Optimization:
+   - Include exact keywords from the job description.
+   - Use standard section headings.
+   - Avoid creative formatting.
+   - Save in ATS-friendly format.
+   - Test resume with an ATS simulator before submitting.
+
+4. Content Prioritization:
+   - Most relevant experience first.
+   - Highlight achievements that match job requirements.
+   - Remove outdated or irrelevant experience.
+   - Add a "Relevant Experience" section for career changers.
+
+5. Quantification:
+   - Use numbers to demonstrate impact.
+   - Examples: "Managed $500K budget", "Led team of 12", "Improved efficiency by 35%".
+   - Include timeframes for context.
+   - Compare against benchmarks where possible.
+
+6. Skill Gap Analysis:
+   - Compare resume skills against job requirements.
+   - Identify missing critical skills.
+   - Prioritize skills to acquire or highlight.
+   - Consider transferable skills for gaps.
+
+7. Impact Improvement:
+   - For each role, identify the single biggest achievement.
+   - Ensure achievements demonstrate business impact.
+   - Link technical work to business outcomes.
+   - Show progression in scope and responsibility.

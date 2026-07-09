@@ -1,0 +1,7 @@
+__pycache__/
+chroma_db/
+cv_chacha.db
+*.pyc
+.env
+node_modules/
+resume_library/

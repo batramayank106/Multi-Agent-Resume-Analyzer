@@ -1,0 +1,44 @@
+Interview Preparation: Technical and Behavioral Questions Guide
+
+1. Technical Question Categories:
+   - Data Structures: Arrays, Linked Lists, Trees, Graphs, Hash Tables
+   - Algorithms: Sorting, Searching, Dynamic Programming, Recursion
+   - System Design: Scalability, Load Balancing, Caching, Database Design
+   - Object-Oriented Design: SOLID Principles, Design Patterns
+   - Language-Specific: Syntax, Best Practices, Common Pitfalls
+
+2. Behavioral Questions (STAR Method):
+   - Situation: Set the context and background.
+   - Task: Describe the challenge or responsibility.
+   - Action: Explain what you specifically did.
+   - Result: Share the outcome and impact.
+
+3. Common Behavioral Questions:
+   - "Tell me about yourself."
+   - "Describe a challenging project and how you handled it."
+   - "Tell me about a time you failed and what you learned."
+   - "Describe a conflict with a team member and how you resolved it."
+   - "Why do you want to work here?"
+
+4. HR Questions:
+   - "Where do you see yourself in 5 years?"
+   - "What are your salary expectations?"
+   - "Why are you leaving your current role?"
+   - "What are your greatest strengths and weaknesses?"
+
+5. Resume-Based Questions:
+   - Be prepared to discuss every bullet point on your resume.
+   - Explain your specific contribution to each project.
+   - Discuss technologies used and why they were chosen.
+   - Be ready to elaborate on quantified achievements.
+
+6. Project-Based Questions:
+   - "What was the architecture of your last project?"
+   - "What challenges did you face and how did you overcome them?"
+   - "If you could rebuild it, what would you do differently?"
+   - "How did you ensure code quality?"
+
+7. Difficulty Levels:
+   - Easy: Basic concept questions and definitions.
+   - Medium: Application of concepts to common scenarios.
+   - Hard: Complex problem-solving and system design.

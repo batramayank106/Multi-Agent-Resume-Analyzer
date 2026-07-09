@@ -1,0 +1,53 @@
+Resume Best Practices and Writing Guide
+
+1. Professional Summary:
+   - Write 2-3 sentences highlighting your most relevant experience.
+   - Tailor to the specific role you're applying for.
+   - Include years of experience, key skills, and career highlights.
+
+2. Experience Section:
+   - Use strong action verbs: "Developed", "Led", "Implemented", "Optimized".
+   - Start each bullet with a different action verb.
+   - Quantify results: "Increased revenue by 20%", "Reduced latency by 40%".
+   - Use the STAR method (Situation, Task, Action, Result).
+   - Include 4-6 bullet points per role.
+   - Show career progression and increasing responsibility.
+
+3. Skills Section:
+   - List 8-12 relevant skills.
+   - Include a mix of hard skills and soft skills.
+   - Prioritize skills mentioned in the job description.
+   - Remove outdated or irrelevant skills.
+
+4. Projects Section:
+   - Include 2-3 significant projects.
+   - Describe your specific contribution.
+   - Mention technologies used.
+   - Link to live demos or GitHub repositories if available.
+
+5. Education Section:
+   - List degree, institution, and graduation year.
+   - Include GPA if above 3.5.
+   - Mention relevant coursework for entry-level positions.
+
+6. Certifications:
+   - List relevant certifications with issuing body and date.
+   - Prioritize active and in-demand certifications.
+
+7. Achievements:
+   - Include awards, publications, patents, and speaking engagements.
+   - Highlight recognition from industry bodies.
+
+8. Length Guidelines:
+   - Entry-level: 1 page
+   - Mid-level: 1-2 pages
+   - Senior-level: 2 pages maximum
+
+9. Contact Information:
+   - Include: Name, Phone, Email, LinkedIn, GitHub/Portfolio.
+   - Exclude: Photo, age, marital status, social security number.
+
+10. Tailoring:
+    - Customize resume for each application.
+    - Mirror language from the job description.
+    - Highlight most relevant experience first.

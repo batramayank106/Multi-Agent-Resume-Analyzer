@@ -1,0 +1,49 @@
+Hiring Manager Evaluation Guide: Technical Depth and Project Quality
+
+1. Technical Depth Assessment:
+   - Evaluate proficiency in required programming languages.
+   - Assess understanding of system design and architecture.
+   - Look for experience with relevant frameworks and tools.
+   - Consider depth vs. breadth of technical knowledge.
+   - Evaluate problem-solving approach and analytical thinking.
+
+2. Project Quality Evaluation:
+   - Complexity and scope of projects undertaken.
+   - Technologies and architectures used.
+   - Whether the project solved a real business problem.
+   - Evidence of following software engineering best practices.
+   - Team size and the candidate's specific role.
+
+3. Internship Readiness:
+   - Basic proficiency in core technologies.
+   - Willingness to learn and adapt.
+   - Strong foundational knowledge.
+   - Portfolio of academic or personal projects.
+   - Communication and collaboration skills.
+
+4. Domain Fit:
+   - Relevant industry experience.
+   - Understanding of domain-specific challenges.
+   - Familiarity with domain tools and practices.
+   - Ability to contribute from day one.
+
+5. Technical Interview Focus Areas:
+   - Data structures and algorithms.
+   - System design and scalability.
+   - Code quality and testing practices.
+   - Debugging and troubleshooting skills.
+   - Version control and CI/CD knowledge.
+
+6. Project Portfolio Assessment:
+   - Quality over quantity (2-3 strong projects).
+   - Clear problem statement and solution.
+   - Appropriate technology choices.
+   - Evidence of testing and documentation.
+   - Deployment and real-world usage.
+
+7. Code Review Criteria:
+   - Code organization and structure.
+   - Naming conventions and readability.
+   - Error handling and edge cases.
+   - Performance considerations.
+   - Testing coverage.

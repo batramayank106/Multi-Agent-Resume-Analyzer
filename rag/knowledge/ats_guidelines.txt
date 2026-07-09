@@ -1,0 +1,51 @@
+ATS (Applicant Tracking System) Guidelines and Best Practices
+
+1. Keyword Optimization:
+   - Resumes must include keywords from the job description to pass ATS filters.
+   - Use exact phrases from the job posting when describing your experience.
+   - Include industry-standard terminology and skill names.
+
+2. Formatting Rules:
+   - Use standard section headings: "Experience", "Education", "Skills", "Projects".
+   - Avoid headers/footers as ATS may not read them.
+   - Do not use tables, columns, or text boxes as ATS may jumble the content.
+   - Use standard fonts (Arial, Calibri, Times New Roman) at 10-12pt.
+   - Save as .docx or PDF (text-based, not scanned).
+
+3. File Naming:
+   - Use "FirstName_LastName_Resume.pdf" format.
+   - Avoid special characters in filenames.
+
+4. Section Requirements:
+   - Include a professional summary or objective at the top.
+   - List work experience in reverse chronological order.
+   - Include months and years for each position.
+   - Quantify achievements with numbers where possible.
+
+5. Skills Section:
+   - Group skills by category (Technical, Soft Skills, Languages).
+   - List both technical and soft skills.
+   - Match skill names exactly as they appear in the job description.
+
+6. Common ATS Rejection Reasons:
+   - Missing key skills from the job description.
+   - Unusual section headings.
+   - Complex formatting (tables, columns, graphics).
+   - Lack of quantifiable achievements.
+   - Typos and grammatical errors.
+
+7. ATS Scoring Factors:
+   - Keyword Match: 30% of score
+   - Skill Match: 20% of score
+   - Experience Match: 15% of score
+   - Project Match: 15% of score
+   - Achievements: 10% of score
+   - Education: 5% of score
+   - Formatting: 5% of score
+
+8. Score Categories:
+   - 0-40: Poor - Major revisions needed
+   - 40-60: Average - Needs improvement
+   - 60-75: Good - Competitive
+   - 75-90: Strong - Highly competitive
+   - 90-100: Exceptional - Top candidate

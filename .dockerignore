@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.env
+.git/
+.gitignore
+chroma_db/
+*.db
+.pytest_cache/
+tests/
+screenshots/
+*.md
+plan.md
+progress.md
+project.md
+opencode.md
