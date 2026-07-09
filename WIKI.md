@@ -1,5 +1,7 @@
 # CV Chacha — Multi-Agent Resume Analyzer Wiki
 
+*by Mayank Batra · Student of National Institute of Technology, Warangal*
+
 ## Overview
 
 CV Chacha is a multi-agent resume intelligence platform that uses 12 specialized LangGraph agents to analyze resumes against job descriptions. It provides ATS scoring, recruiter & hiring manager reviews, skill gap analysis, truthfulness validation, resume rewriting, interview preparation, and selection probability estimation — all with a 3-tier LLM fallback system (Groq → HuggingFace → Ollama).

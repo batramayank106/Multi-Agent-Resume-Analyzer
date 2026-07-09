@@ -19,12 +19,8 @@
   <img src="https://raw.githubusercontent.com/batramayank106/Multi-Agent-Resume-Analyzer/main/media%20and%20images/Main%20icon%20transparent.png" width="120" alt="CV Chacha">
 </p>
 <p align="center">
-  <strong style="font-size: 2.8rem; font-family: serif; letter-spacing: -1px;">CV Chacha — by Mayank Batra</strong>
-</p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/mayank-batra-821b10365/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
-  </a>
+  <strong style="font-size: 2.8rem; font-family: serif; letter-spacing: -1px;">CV Chacha — by Mayank Batra</strong><br>
+  <span style="font-size: 1rem; color: #8e8b82;">Student of National Institute of Technology, Warangal</span>
 </p>
 <p align="center" style="font-size: 1.2rem; color: #6c6a4a;">
   Multi-Agent Resume Intelligence Platform
@@ -33,6 +29,12 @@
 <p align="center" style="font-size: 1rem; color: #8e8b82; max-width: 600px; margin: 0 auto;">
   A portfolio-quality generative AI application demonstrating production-grade agent orchestration,
   RAG architectures, LLM engineering, and modern frontend design — running on local hardware (CPU or GPU).
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mayank-batra-821b10365/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+  </a>
 </p>
 
 <br>
