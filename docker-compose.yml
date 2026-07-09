@@ -18,7 +18,7 @@ services:
     volumes:
       - ./chroma_db:/app/chroma_db
       - ./cv_chacha.db:/app/cv_chacha.db
-    command: python run.py --backend
+    command: python run.py backend
 
   frontend:
     build:
@@ -31,4 +31,4 @@ services:
       - backend
     environment:
       - BACKEND_URL=http://backend:8000
-    command: python run.py --frontend
+    command: python run.py frontend
