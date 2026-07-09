@@ -2,7 +2,7 @@
 
 *Built by Mayank Batra · Student of National Institute of Technology, Warangal*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mayank-batra-821b10365/) · [GitHub](https://github.com/batramayank106/Multi-Agent-Resume-Analyzer)
+[LinkedIn](https://www.linkedin.com/in/mayank-batra-821b10365/) · [GitHub](https://github.com/batramayank106/Multi-Agent-Resume-Analyzer)
 
 ---
 

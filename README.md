@@ -798,7 +798,5 @@ MIT
 
 <p align="center">
   Built by <strong>Mayank Batra</strong> · Student of National Institute of Technology, Warangal<br>
-  <a href="https://www.linkedin.com/in/mayank-batra-821b10365/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
-  </a>
+  <a href="https://www.linkedin.com/in/mayank-batra-821b10365/">LinkedIn</a> · <a href="https://github.com/batramayank106/Multi-Agent-Resume-Analyzer">GitHub</a>
 </p>
