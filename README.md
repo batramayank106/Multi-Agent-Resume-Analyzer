@@ -444,7 +444,7 @@ CV Chacha implements production-inspired security suitable for a portfolio-grade
 
 ### Secure File Upload
 - **Allowed:** PDF, TEX
-- **Validated:** extension, MIME type, file size (max 20MB)
+- **Validated:** extension, MIME type, file size (max 25MB)
 - **Rejected:** unsupported formats, oversized files, malicious content
 
 ---
