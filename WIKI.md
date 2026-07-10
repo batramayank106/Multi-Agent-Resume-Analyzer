@@ -62,7 +62,7 @@ The app uses JWT-based authentication with bcrypt password hashing. Users regist
 
 | | |
 |---|---|
-| ![Dashboard](https://raw.githubusercontent.com/batramayank106/Multi-Agent-Resume-Analyzer/main/screenshots/Dashboard%20Page.png) | ![Sidebar](https://raw.githubusercontent.com/batramayank106/Multi-Agent-Resume-Analyzer/main/screenshots/Sidebar.png) |
+| ![Dashboard](https://raw.githubusercontent.com/batramayank106/Multi-Agent-Resume-Analyzer/main/screenshots/Dashboard%20Page.png) |
 
 The dashboard shows model capabilities, agent pipeline status, and quick action buttons. The sidebar provides navigation to all 21 pages.
 
